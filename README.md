@@ -6,8 +6,8 @@ one can search City by name
 
 one can get
 
-*current temperature
-*temperature feels like
-*minimum temperature
-*maximum temperature
-*pressure
+- current temperature
+- temperature feels like
+- minimum temperature
+- maximum temperature
+- pressure
